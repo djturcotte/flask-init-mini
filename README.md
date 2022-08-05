@@ -1,6 +1,4 @@
 # flask-init-mini
-O'Reilly Github Class project
-# flask-init-mini
 
 This project is a boilerplate for future Flask applications.
 
