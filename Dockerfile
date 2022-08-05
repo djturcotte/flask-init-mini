@@ -2,7 +2,7 @@ FROM python:3.9.5-alpine
 
 # Setup environment variables
 ENV PORT=8080 \
-    HOST=0.0.0 \
+    HOST=0.0.0.0 \
     FLASK_APP=/app/run.py \
     PYTHONUNBUFFERED=True
 ARG FLASK_DEBUG=False
